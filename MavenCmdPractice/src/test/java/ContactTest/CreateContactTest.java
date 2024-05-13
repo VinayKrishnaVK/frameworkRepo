@@ -26,6 +26,10 @@ public class CreateContactTest {
 	}
 
 	@Test
+	public void DeleteContactTest() {
+		System.out.println("Contact Deleted");
+	}
+	@Test
 	public void createContactWithOrgTest() {
 		System.out.println("Contact with Org Created and Executed");
 	}
