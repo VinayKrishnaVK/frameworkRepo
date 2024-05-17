@@ -12,7 +12,7 @@ public class CreateContactTest {
 	
 	@Test
 	public void createContactTest() {
-		
+		//create contact test
 		System.out.println(URL);
 		System.out.println(BROWSER);
 		System.out.println(USERNAME);
